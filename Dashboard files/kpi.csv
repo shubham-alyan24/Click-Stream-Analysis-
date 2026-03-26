@@ -2,3 +2,5 @@ metric,value
 Total Users,943.0
 Total Events,100000.0
 Avg Rating,3.53
+FM Estimate,831.0
+FM Error %,11.88
