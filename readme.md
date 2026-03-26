@@ -96,7 +96,12 @@ Trained on 80K ratings, evaluated on 20K held-out test split.
 ```
 ├── index.ipynb                    # Main notebook — run this first
 └── Dashboard files/
-    ├── app.py                     # Streamlit dashboard
+    ├── Dashboard Sample View      # Streamlit dashboard view images
+        ├── 1                      
+        ├── 2                  
+        ├── 3                    
+        ├── 4                    
+    ├── app.py                     # Streamlit dashboard code
     ├── kpi.csv                    # Total users, events, avg rating, FM estimate
     ├── metrics.csv                # RMSE, Precision@10, Recall@10
     ├── event_counts.csv           # view / addtocart / transaction counts
